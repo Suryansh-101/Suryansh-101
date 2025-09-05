@@ -9,8 +9,8 @@ A passionate developer, lifelong learner, and tech enthusiast specializing in Ar
 -   👯 I’m looking to collaborate on Open Source AI/ML projects.
 -   💬 Ask me about **Artificial Intelligence, Machine Learning, Python, Pandas, and C**.
 -   📫 How to reach me: **suryansh.anand.dev@gmail.com**
--   😄 Pronouns: [He/Him, She/Her, etc.]
--   ⚡ Fun fact: [A fun fact about you!]
+-   😄 Pronouns: He/Him
+-   ⚡ Fun fact: I love hard tasks more then easy ones
 
 ---
 
