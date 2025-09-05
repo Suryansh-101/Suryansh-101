@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Suryansh Anand
 A passionate developer, lifelong learner, and tech enthusiast specializing in Artificial Intelligence and Machine Learning.
 
 ---
@@ -8,7 +8,7 @@ A passionate developer, lifelong learner, and tech enthusiast specializing in Ar
 -   🌱 I’m currently deepening my knowledge in advanced Data Structures & Algorithms.
 -   👯 I’m looking to collaborate on Open Source AI/ML projects.
 -   💬 Ask me about **Artificial Intelligence, Machine Learning, Python, Pandas, and C**.
--   📫 How to reach me: [Your Email or Social Media Link]
+-   📫 How to reach me: **suryansh.anand.dev@gmail.com**
 -   😄 Pronouns: [He/Him, She/Her, etc.]
 -   ⚡ Fun fact: [A fun fact about you!]
 
@@ -82,20 +82,23 @@ A passionate developer, lifelong learner, and tech enthusiast specializing in Ar
 
 ---
 
-### 🎯 Current Projects
+### 🎯 My Projects
 
-* **Project Name 1** - A brief but exciting description of what this project does.
-* **Project Name 2** - A brief but exciting description of what this project does.
-* **Project Name 3** - A brief but exciting description of what this project does.
+* **Currency Converter** - A currency converter using Python, Streamlit, and the Frankfurter API.
+    * [GitHub Repo](https://github.com/Suryansh-101/repository-name)
+* **Web Scraper** - A lightweight and user-friendly scraper with a GUI using Streamlit that extracts links and images.
+    * [GitHub Repo](https://github.com/Suryansh-101/repository-name)
+* **House Price Prediction** - A machine learning model to predict house prices using Python and Pandas.
+    * [GitHub Repo](https://github.com/Suryansh-101/repository-name)
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/suryansh-anand" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:YOUR-EMAIL@example.com" target="_blank">
+  <a href="mailto:suryansh.anand.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
