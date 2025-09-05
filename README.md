@@ -20,11 +20,11 @@
 
 ### 🚀 About Me
 
--   🔭 Working on exciting projects involving **AI and Neural Networks**.
--   🌱 Deepening my knowledge in advanced **Data Structures & Algorithms**.
--   🤝 Looking to collaborate on Open Source **AI/ML projects**.
--   💬 Ask me about **Artificial Intelligence, Machine Learning, Python, and Pandas**.
--   📫 Reach me at: **suryansh.anand.dev@gmail.com**
+-    🔭 Working on exciting projects involving **AI and Neural Networks**.
+-    🌱 Deepening my knowledge in advanced **Data Structures & Algorithms**.
+-    🤝 Looking to collaborate on Open Source **AI/ML projects**.
+-    💬 Ask me about **Artificial Intelligence, Machine Learning, Python, and Pandas**.
+-    📫 Reach me at: **suryansh.anand.dev@gmail.com**
 
 ---
 
@@ -88,11 +88,8 @@
 ### 🎯 My Projects
 
 * **Currency Converter** - A currency converter using Python, Streamlit, and the Frankfurter API.
-    * [GitHub Repo](https://github.com/Suryansh-101/repository-name)
 * **Web Scraper** - A lightweight and user-friendly scraper with a GUI using Streamlit that extracts links and images.
-    * [GitHub Repo](https://github.com/Suryansh-101/repository-name)
 * **House Price Prediction** - A machine learning model to predict house prices using Python and Pandas.
-    * [GitHub Repo](https://github.com/Suryansh-101/repository-name)
 
 ---
 
